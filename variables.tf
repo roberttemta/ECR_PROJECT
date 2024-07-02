@@ -10,5 +10,5 @@ variable "profile" {
 
 variable "name_repo" {
   description = "name for our repository"
-  default = "jenkins_ecr_registry"
+  default = "my_ecr_registry"
 }
